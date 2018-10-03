@@ -31,5 +31,5 @@
     "escodegen": "^1.9.0",
     "recursive-readdir": "^2.2.1"
   },
-  "repository": "github:wikimedia/resource-modules"
+  "repository": "github:jdlrobson/resource-modules"
 }
